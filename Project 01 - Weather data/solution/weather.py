@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Weather Statistics by Barron Stone for Code Clinic: Python """
+""" Weather Statistics: Python """
 import re
 from csv import DictReader
 from datetime import datetime
