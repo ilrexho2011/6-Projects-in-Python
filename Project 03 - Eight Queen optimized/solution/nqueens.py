@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" NQueens by Barron Stone for Code Clinic: Python """
+""" NQueens optimised in Python """
 from time import time
 from tkinter import *
 from tkinter import ttk, messagebox
