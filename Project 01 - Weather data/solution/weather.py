@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Weather Statistics: Python """
+""" Weather Statistics: with Python """
 import re
 from csv import DictReader
 from datetime import datetime
