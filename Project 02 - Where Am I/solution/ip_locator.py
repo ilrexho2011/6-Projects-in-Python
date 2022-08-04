@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Geolocation via IP Lookup by Barron Stone for Code Clinic: Python """
+""" Geolocation via IP Lookup by Barron Stone for: Python """
 from urllib import request
 import json
 
